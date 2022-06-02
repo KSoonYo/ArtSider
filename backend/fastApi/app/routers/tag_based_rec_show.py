@@ -14,10 +14,10 @@ router = APIRouter()
 def hello(userId, category):
     
     # DB 연결
-    password = 'artsider202!'
+    password = ''
     pwd = parse.quote_plus(password)
 
-    db_connection_str = 'mysql+pymysql://artsider:'+pwd+'@j6b202.p.ssafy.io/artsider'
+    db_connection_str = ''
     db_connection_engine = create_engine(db_connection_str, encoding='utf-8')
 
     # mysql 연결 후 pandas read
