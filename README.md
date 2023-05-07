@@ -12,7 +12,7 @@
 
 ⬛ 사이트 주소
 
-http://j6b202.p.ssafy.io/
+~~http://j6b202.p.ssafy.io/~~ (현재 지원하지 않는 주소입니다.)
 
 ⬛ UCC 영상
 
